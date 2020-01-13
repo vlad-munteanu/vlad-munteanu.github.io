@@ -1,0 +1,16 @@
+Package: com.lesgarcons.redrectangle
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm
+Maintainer: Vlad Munteanu
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.lesgarcons.redrectangle_0.0.1-7+debug_iphoneos-arm.deb
+Size: 4688
+MD5sum: 7df750fc22aa97b32e173f747d5dae58
+SHA1: 41fcec6c26d725e2b1ed73567a4a34338d9aad74
+SHA256: 7fc8eecdd044c378a14f8d3be83bc64ac9d7f80ed99e9fe0c5120ce3061611bc
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Vlad Munteanu
+Name: redrectangle
+
