@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Coding Blog"
+title: "Blog"
 email: vcm@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,8 +27,10 @@ github_username:  "0x7B5"
 
 # Build settings
 theme: minima
+#remote_theme: ronv/sidey
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
